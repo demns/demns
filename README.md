@@ -1,4 +1,5 @@
-### Hi there 👋💖
+### 💖
+![demns github stats](https://github-readme-stats.vercel.app/api?username=demns&hide=stars,contribs&count_private=true&show_icons=true&theme=radical)
 
 <!--
 **demns/demns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
