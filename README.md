@@ -1,6 +1,6 @@
 ### 💖 https://samsonau.net/
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=demns)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=demns&theme=city-lights&hide_border=true&border_radius=50)](https://git.io/streak-stats)
 
 <!--
 **demns/demns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
