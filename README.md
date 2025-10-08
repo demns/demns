@@ -1,18 +1,46 @@
-### 💖 https://samsonau.net/
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=demns&theme=city-lights&hide_border=true&border_radius=50)](https://git.io/streak-stats)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=❤️&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
-<!--
-**demns/demns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+```
+╔════════════════════════════════════════════════════════╗
+║         Managing Frontend Engineering with Fire        ║
+╠════════════════════════════════════════════════════════╣
+║  ❤️ Crafting scalable interfaces                   ❤️ ║
+║  ⚡ Leading brilliant teams and empowering managers⚡ ║
+║  🚀 Mentoring developers to ship with pride        🚀 ║
+╚════════════════════════════════════════════════════════╝
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<table>
+<tr>
+<td>
+
+```bash
+> run demns --about
+
+⚡ Engineering Manager
+🖥️ Frontend Architect
+🎯 Mentor / Builder
+🔥 Passion for clean code, scalable systems, and happy teams
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<a href="https://samsonau.net">
+  <img src="https://img.shields.io/badge/Website-samsonau.net-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Personal website" />
+</a>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
+</div>
