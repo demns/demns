@@ -39,8 +39,6 @@
   <img src="https://img.shields.io/badge/Website-samsonau.net-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Personal website" />
 </a>
 
-<br><br>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
