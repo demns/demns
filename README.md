@@ -1,7 +1,7 @@
 <div align="center">
 
   <img width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=❤️&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff"
     alt="Decorative header with red heart emoji and gradient waving animation" role="img"
     aria-label="Profile header banner" />
 
